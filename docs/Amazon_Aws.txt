@@ -1,0 +1,31 @@
+Amazon & AWS: History and Overview
+
+Amazon.com was founded by Jeff Bezos on July 5, 1994, in Bellevue, Washington. Originally started as an online bookstore operating out of Bezos's garage, the company quickly expanded its offerings to include a wide range of products. The name "Amazon" was chosen because Bezos wanted a name that started with the letter "A" and was associated with something large and exotic, like the Amazon River in South America.
+
+In May 1997, Amazon went public on the NASDAQ stock exchange under the ticker symbol "AMZN" at an initial price of $18 per share. The IPO raised approximately $54 million for the company. Despite early skepticism from investors and analysts who doubted its profitability, Amazon continued to grow rapidly throughout the late 1990s.
+
+Amazon expanded aggressively through the early 2000s, launching new product categories including electronics, toys, tools, and apparel. In 2000, Amazon launched its Marketplace platform, allowing third-party sellers to list and sell products directly on Amazon's website. This was a pivotal moment that transformed Amazon into a true e-commerce platform rather than just a retailer.
+
+Amazon Web Services (AWS) was officially launched in 2006, offering cloud computing services to businesses and developers. The first AWS services included Amazon Simple Storage Service (Amazon S3) and Amazon Elastic Compute Cloud (Amazon EC2). AWS was born out of Amazon's internal need to build scalable infrastructure and the realization that these capabilities could be offered to external customers.
+
+Andy Jassy, who joined Amazon in 1997, played a key role in the founding and growth of AWS. He served as CEO of AWS from its inception until 2021, when he succeeded Jeff Bezos as the CEO of Amazon. Jeff Bezos transitioned to the role of Executive Chairman of Amazon's board in July 2021.
+
+Amazon Prime was launched in February 2005, offering customers unlimited free two-day shipping for an annual fee of $79. The program was initially conceived as a loyalty program to encourage more frequent purchases. Over time, Prime expanded to include streaming video, music, e-books, and many other benefits. By 2023, Amazon Prime had over 200 million subscribers worldwide.
+
+In 2007, Amazon introduced the Kindle e-reader, revolutionizing the way people read books. The first Kindle sold out within 5.5 hours of its launch and remained out of stock for months. The Kindle ecosystem eventually expanded to include tablets and a vast digital bookstore, making Amazon a dominant player in digital publishing.
+
+Amazon acquired Whole Foods Market in August 2017 for approximately $13.7 billion. This acquisition marked Amazon's major entry into the brick-and-mortar retail space and the grocery industry. The deal gave Amazon access to over 460 Whole Foods store locations across the United States, Canada, and the United Kingdom.
+
+AWS has grown to become the world's leading cloud computing platform, offering over 200 fully featured services including computing, storage, databases, networking, machine learning, artificial intelligence, and more. Major AWS customers include Netflix, NASA, Airbnb, Samsung, and thousands of other businesses worldwide. As of 2023, AWS generates more than $90 billion in annual revenue and accounts for a significant portion of Amazon's overall operating profit.
+
+Amazon's headquarters is located in Seattle, Washington, though the company has been developing a second headquarters, known as HQ2, in Arlington, Virginia. The HQ2 project was announced in 2017 and Amazon selected Arlington after a highly publicized search process involving cities across North America. Construction of HQ2 began in 2019 and is expected to eventually house tens of thousands of employees.
+
+Amazon has also made significant investments in logistics and delivery infrastructure. The company operates its own fleet of delivery vehicles, aircraft (Amazon Air), and has experimented with drone delivery through its Prime Air program. Amazon's fulfillment network includes hundreds of warehouses and distribution centers around the world, enabling fast and reliable delivery to customers.
+
+In the field of artificial intelligence, Amazon has developed Alexa, a virtual assistant first introduced with the Amazon Echo smart speaker in November 2014. Alexa can perform tasks such as playing music, answering questions, controlling smart home devices, and shopping on Amazon. The Echo lineup has expanded to include numerous devices, and Alexa has been integrated into a wide range of third-party products.
+
+Amazon's entertainment division, Amazon Studios, produces original movies and television series available through Prime Video. Notable Amazon originals include "The Marvelous Mrs. Maisel," "Fleabag," and "The Boys." Amazon also acquired MGM Holdings in March 2022 for approximately $8.5 billion, gaining access to a vast library of films and television shows.
+
+Jeff Bezos founded Blue Origin, a private aerospace company, in 2000. While separate from Amazon, Blue Origin reflects Bezos's long-term vision for humanity's future in space. Blue Origin has developed the New Shepard rocket for suborbital space tourism and is working on the New Glenn orbital rocket. In July 2021, Bezos flew to space aboard New Shepard shortly after stepping down as Amazon's CEO.
+
+Amazon has consistently ranked among the most valuable companies in the world by market capitalization. The company employs over 1.5 million people globally, making it one of the largest employers in the United States and the world. Amazon's mission statement is "to be Earth's most customer-centric company, where customers can find and discover anything they might want to buy online."
